@@ -117,6 +117,14 @@ String _remainingHuman(Duration diff, {bool past = false}) {
 
 ---
 
+## 📸 Screenshots
+
+![Home](assets/screenshots/home.png)
+![Details 1](assets/screenshots/details1.png)
+![Details 2](assets/screenshots/details2.png)
+
+---
+
 ### Автор
 
 - Име и презиме: Никола Сарафимов
